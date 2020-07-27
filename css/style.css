@@ -1,0 +1,49 @@
+body{
+	padding:0px;
+	margin:0px;
+	background-color: white;
+}
+
+header{
+	background-color: gray;
+	min-height: 70px;
+	margin:20px 50px;
+	
+
+}
+.wrapping{
+	
+	min-height: 500px;
+	margin: 0px 50px;
+	overflow: hidden;
+}
+.banner,.area{
+	background-color: gray;
+	min-height: 100px;
+	padding:150px 0px;
+	margin: 5px.0px;
+
+	
+}
+.banner{
+	float: right;
+	width: 60%;
+	padding: 5px 0px;
+
+}
+.area{float: right;
+	width: 60%;
+
+}
+.side{
+	float: left;
+	width: 38%;
+	margin: 10px.0px;
+	
+}
+.foot{
+	background-color: gray;
+	min-height: 70px;
+	margin:20px 50px;
+	
+}
